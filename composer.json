@@ -36,7 +36,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "lastguest\\": "src/lastguest/"
+            "MurmurHash\\": "src/lastguest/"
         }
     }
 }
